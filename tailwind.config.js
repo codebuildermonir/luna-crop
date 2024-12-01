@@ -18,6 +18,8 @@ module.exports = {
       'customGreen-100':'#DEF7EC',
       'customGreen-50':'#F3FAF7',
       'customGray-900':'#1F2A37',
+      'customGray-300':'#E6E8EA',
+      'customGray-200':'#6B7280',
     },
   },
   },
